@@ -6,7 +6,7 @@
 <img alt="Fork" src="https://img.shields.io/github/forks/xsk666/autopost">
 <img alt="Star" src="https://img.shields.io/github/stars/xsk666/autopost">
 
-![表情包](course/img/daka.jpeg)
+
 
 ## 使用教程/部署教程
 ***脚本会自动获取昨天的打卡信息进行提交***   
